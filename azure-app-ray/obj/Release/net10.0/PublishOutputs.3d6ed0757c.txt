@@ -1,0 +1,7 @@
+C:\Users\raymond.soffner\AppData\Local\Temp\rider-publish12388224147092774022\azure-app-ray.exe
+C:\Users\raymond.soffner\AppData\Local\Temp\rider-publish12388224147092774022\appsettings.Development.json
+C:\Users\raymond.soffner\AppData\Local\Temp\rider-publish12388224147092774022\appsettings.json
+C:\Users\raymond.soffner\AppData\Local\Temp\rider-publish12388224147092774022\azure-app-ray.dll
+C:\Users\raymond.soffner\AppData\Local\Temp\rider-publish12388224147092774022\azure-app-ray.deps.json
+C:\Users\raymond.soffner\AppData\Local\Temp\rider-publish12388224147092774022\azure-app-ray.runtimeconfig.json
+C:\Users\raymond.soffner\AppData\Local\Temp\rider-publish12388224147092774022\azure-app-ray.pdb

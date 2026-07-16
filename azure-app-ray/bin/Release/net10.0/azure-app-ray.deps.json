@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "azure-app-ray/1.0.0": {
+        "runtime": {
+          "azure-app-ray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "azure-app-ray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
