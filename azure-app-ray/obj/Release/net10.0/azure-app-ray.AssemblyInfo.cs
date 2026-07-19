@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a66e05c8-032e-4f5c-8730-e74cc2058d8c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-ray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b60711adfe8b283f539b744dbb6ffaf3485a2138")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-ray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-ray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
